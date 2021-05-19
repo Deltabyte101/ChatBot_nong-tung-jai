@@ -74,9 +74,9 @@ const unfollow = async (userId) => {
 };
 
 const sentToDialogflow = request => {
-    request.headers.host = "bots.dialogflow.com";
+    request.headers.host = "dialogflow.cloud.google.com";
     return post(
-        "https://bots.dialogflow.com/line/9d637579-1f52-4fb8-bf32-9034b2f565ff/webhook",
+        "https://dialogflow.cloud.google.com/v1/integrations/line/webhook/ca254172-1153-4ca1-98cb-1d44e45e60d0",
         JSON.stringify(request.body),
         { headers: request.headers }
     );
