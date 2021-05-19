@@ -8,7 +8,7 @@ const alcohol = () => {
                     type: "image_carousel",
                     columns: [
                         {
-                            imageUrl: "gs://nong-tung-jai-68673.appspot.com/102373398_2644995379072462_8759211837389537280_n.jpg",
+                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/102373398_2644995379072462_8759211837389537280_n.jpg?alt=media&token=bba76ae6-7f61-4e40-b097-1f5f7208e177",
                             action: {
                                 type: "message",
                                 label: "เบียร์",
