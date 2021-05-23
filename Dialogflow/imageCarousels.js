@@ -72,6 +72,14 @@ const alcohol = () => {
                     type: "image_carousel",
                     columns: [
                         {
+                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%2F%E0%B8%9D%E0%B8%B2%2015%20%E0%B8%A1%E0%B8%A5.png?alt=media&token=0f1f7b3d-d503-4a66-a4f6-08e99bf84e5c",
+                            action: {
+                                type: "message",
+                                label: "ฝา 15mL",
+                                text: "ฝา 15mL"
+                            }
+                        },
+                        {
                             imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%2F%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B9%80%E0%B8%9B%E0%B9%8A%E0%B8%8150%E0%B8%A1%E0%B8%A5.png?alt=media&token=0e649987-5622-494d-8d5e-05dc6dbef86e",
                             action: {
                                 type: "message",
@@ -85,6 +93,30 @@ const alcohol = () => {
                                 type: "message",
                                 label: "แก้ว 165mL",
                                 text: "แก้ว 165mL"
+                            }
+                        },
+                        {
+                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%2F%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C%E0%B9%83%E0%B8%AB%E0%B9%83%E0%B8%8D%E0%B9%88165.png?alt=media&token=09931385-07af-4dc1-8bb1-e3618b791263",
+                            action: {
+                                type: "message",
+                                label: "แก้วเบียร์ 165mL",
+                                text: "แก้วเบียร์ 165mL"
+                            }
+                        },
+                        {
+                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%2F%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B9%84%E0%B8%A7%E0%B8%99%E0%B9%8C100%E0%B8%A1%E0%B8%A5.png?alt=media&token=3dfa6f40-f64e-4bb4-88ad-195df9aadc92",
+                            action: {
+                                type: "message",
+                                label: "แก้วไวน์ 100mL",
+                                text: "แก้วไวน์ 100mL"
+                            }
+                        },
+                        {
+                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%2F%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B9%8B%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81250%E0%B8%A1%E0%B8%A5.png?alt=media&token=564b5c39-8750-46b7-acd4-eefe5ee53e2c",
+                            action: {
+                                type: "message",
+                                label: "กระป๋อง 250mL",
+                                text: "กระป๋อง 250mL"
                             }
                         },
                         {
@@ -104,6 +136,14 @@ const alcohol = () => {
                             }
                         },
                         {
+                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%2F%E0%B8%82%E0%B8%A7%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81275%E0%B8%A1%E0%B8%A5.png?alt=media&token=1bacb999-1e63-4c41-8a5e-6d6fbc485fed",
+                            action: {
+                                type: "message",
+                                label: "ขวด 270mL",
+                                text: "ขวด 270mL"
+                            }
+                        },
+                        {
                             imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%2F%E0%B8%82%E0%B8%A7%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81330%E0%B8%A1%E0%B8%A5.png?alt=media&token=e5a274b9-c847-43e8-b8ba-d2ccad1fe248",
                             action: {
                                 type: "message",
@@ -117,6 +157,22 @@ const alcohol = () => {
                                 type: "message",
                                 label: "ขวด 350mL",
                                 text: "ขวด 350mL"
+                            }
+                        },
+                        {
+                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%2F%E0%B8%82%E0%B8%A7%E0%B8%94%E0%B9%81%E0%B8%9A%E0%B8%99400%E0%B8%A1%E0%B8%A5.png?alt=media&token=d095613b-0871-4ae8-8f2e-bb75261f1e85",
+                            action: {
+                                type: "message",
+                                label: "ขวด 400mL",
+                                text: "ขวด 400mL"
+                            }
+                        },
+                        {
+                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%2F%E0%B8%82%E0%B8%A7%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%A1500%E0%B8%A1%E0%B8%A5.png?alt=media&token=76e6416f-92ef-423d-811c-a4c5a22dff3c",
+                            action: {
+                                type: "message",
+                                label: "ขวด 500mL",
+                                text: "ขวด 500mL"
                             }
                         },
                         {
@@ -136,11 +192,11 @@ const alcohol = () => {
                             }
                         },
                         {
-                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%2F%E0%B9%80%E0%B8%AB%E0%B8%A2%E0%B8%B7%E0%B8%AD%E0%B8%811000%E0%B8%A1%E0%B8%A5.png?alt=media&token=1e9c1d08-802d-479d-aae7-9b304f6e15dc",
+                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%2F%E0%B8%82%E0%B8%A7%E0%B8%94%E0%B9%84%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88750%E0%B8%A1%E0%B8%A5.png?alt=media&token=e7c7e8de-d1cf-43cf-8c10-8b5d35e8de97",
                             action: {
                                 type: "message",
-                                label: "เหยือก 1000mL",
-                                text: "เหยือก 1000mL"
+                                label: "ขวด 750mL",
+                                text: "ขวด 750mL"
                             }
                         },
                         {
@@ -149,6 +205,14 @@ const alcohol = () => {
                                 type: "message",
                                 label: "ขวด 1000mL",
                                 text: "ขวด 1000mL"
+                            }
+                        },
+                        {
+                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%88%E0%B8%B8%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%2F%E0%B9%80%E0%B8%AB%E0%B8%A2%E0%B8%B7%E0%B8%AD%E0%B8%811000%E0%B8%A1%E0%B8%A5.png?alt=media&token=1e9c1d08-802d-479d-aae7-9b304f6e15dc",
+                            action: {
+                                type: "message",
+                                label: "เหยือก 1000mL",
+                                text: "เหยือก 1000mL"
                             }
                         },
                     ]
