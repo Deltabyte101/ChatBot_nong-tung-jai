@@ -8,7 +8,7 @@ const alcohol = () => {
                     type: "image_carousel",
                     columns: [
                         {
-                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/102373398_2644995379072462_8759211837389537280_n.jpg?alt=media&token=bba76ae6-7f61-4e40-b097-1f5f7208e177",
+                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B7%E0%B9%88%E0%B8%A1%2F%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C.png?alt=media&token=d438c20b-e14b-4e59-b1a2-247e48a3675b",
                             action: {
                                 type: "message",
                                 label: "เบียร์",
@@ -16,7 +16,7 @@ const alcohol = () => {
                             }
                         },
                         {
-                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/assistant-drinker.appspot.com/o/Type%2FBooze.png?alt=media&token=c5c5aa8e-6901-4c49-af26-026cca4d90fb",
+                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B7%E0%B9%88%E0%B8%A1%2F%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%B535.png?alt=media&token=7f56c2d6-b968-4d07-b70a-eaaa92d5e67a",
                             action: {
                                 type: "message",
                                 label: "สุราสี",
@@ -24,7 +24,7 @@ const alcohol = () => {
                             }
                         },
                         {
-                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/assistant-drinker.appspot.com/o/Type%2FWhiteBooze.png?alt=media&token=b4deec42-9c56-4770-b5c4-1f241c2b4561",
+                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B7%E0%B9%88%E0%B8%A1%2F%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A740.png?alt=media&token=033ca21c-2c7d-416a-9996-af5dd62de9c7",
                             action: {
                                 type: "message",
                                 label: "สุราขาว",
@@ -32,28 +32,28 @@ const alcohol = () => {
                             }
                         },
                         {
-                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/assistant-drinker.appspot.com/o/Type%2FLocalBooze.png?alt=media&token=f77c0ce8-2e4b-40ff-b2bc-4f93f22de175",
+                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B7%E0%B9%88%E0%B8%A1%2F%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87.png?alt=media&token=4494fb81-8910-426a-b935-999d15f5ecc8",
                             action: {
                                 type: "message",
                                 label: "สุราพื้นเมือง",
                                 text: "สุราพื้นเมือง"
                             }
                         },{
-                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/assistant-drinker.appspot.com/o/Type%2FWine.png?alt=media&token=4d50efa0-5ad3-45a5-aca8-01a47294461f",
+                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B7%E0%B9%88%E0%B8%A1%2F%E0%B9%84%E0%B8%A7%E0%B8%99%E0%B9%8C.png?alt=media&token=b43ad284-ee37-4b3d-8f9c-7b330501a04c",
                             action: {
                                 type: "message",
                                 label: "ไวน์",
                                 text: "ไวน์"
                             }
                         },{
-                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/assistant-drinker.appspot.com/o/Type%2FWineCooler.png?alt=media&token=29a1d0d1-dbb4-4f7c-b136-c4464b7b8f20",
+                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B7%E0%B9%88%E0%B8%A1%2F%E0%B9%84%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B8%84%E0%B8%A5%E0%B8%B9%E0%B9%80%E0%B8%A5%E0%B8%AD%E0%B8%A3%E0%B9%8C.png?alt=media&token=4f7a7eec-4b66-499c-9171-9a53858c8118",
                             action: {
                                 type: "message",
                                 label: "ไวน์คูลเลอร์",
                                 text: "ไวน์คูลเลอร์"
                             }
                         },{
-                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/assistant-drinker.appspot.com/o/Type%2FOther.png?alt=media&token=662b6bd1-c5aa-4c3f-aee0-da67a3c97269",
+                            imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B7%E0%B9%88%E0%B8%A1%2F%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B7%E0%B9%88%E0%B8%A1%E0%B8%AD%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B9%86.png?alt=media&token=ce78acf3-4c55-4edc-a452-98525f6dfae2",
                             action: {
                                 type: "message",
                                 label: "เครื่องดื่มอื่นๆ",
@@ -229,7 +229,7 @@ const alcohol = () => {
             },
             เบียร์: {
                 type: "template",
-                altText: "เลือกภาชนะที่คุณมักจะใช้ดื่มไวน์คูลเลอร์ค่ะ",
+                altText: "เลือกภาชนะที่คุณมักจะใช้ดื่มเบียร์ค่ะ",
                 template: {
                     type: "image_carousel",
                     columns: [
@@ -270,7 +270,7 @@ const alcohol = () => {
             },
             ไวน์: {
                 type: "template",
-                altText: "เลือกภาชนะที่คุณมักจะใช้ดื่มไวน์คูลเลอร์ค่ะ",
+                altText: "เลือกภาชนะที่คุณมักจะใช้ดื่มไวน์ค่ะ",
                 template: {
                     type: "image_carousel",
                     columns: [
@@ -311,7 +311,7 @@ const alcohol = () => {
             },
             สุราพื้นเมือง: {
                 type: "template",
-                altText: "เลือกภาชนะที่คุณมักจะใช้ดื่มไวน์คูลเลอร์ค่ะ",
+                altText: "เลือกภาชนะที่คุณมักจะใช้ดื่มสุราพื้นเมืองค่ะ",
                 template: {
                     type: "image_carousel",
                     columns: [
@@ -336,7 +336,7 @@ const alcohol = () => {
             },
             สุราสี: {
                 type: "template",
-                altText: "เลือกภาชนะที่คุณมักจะใช้ดื่มไวน์คูลเลอร์ค่ะ",
+                altText: "เลือกภาชนะที่คุณมักจะใช้ดื่มสุราสีค่ะ",
                 template: {
                     type: "image_carousel",
                     columns: [
@@ -353,7 +353,7 @@ const alcohol = () => {
             },
             สุราขาว: {
                 type: "template",
-                altText: "เลือกภาชนะที่คุณมักจะใช้ดื่มไวน์คูลเลอร์ค่ะ",
+                altText: "เลือกภาชนะที่คุณมักจะใช้ดื่มสุราขาวค่ะ",
                 template: {
                     type: "image_carousel",
                     columns: [
@@ -370,7 +370,7 @@ const alcohol = () => {
             },
             เครื่องดื่มอื่นๆ: {
                 type: "template",
-                altText: "เลือกภาชนะที่คุณมักจะใช้ดื่มไวน์คูลเลอร์ค่ะ",
+                altText: "เลือกภาชนะที่คุณมักจะใช้ดื่มค่ะ",
                 template: {
                     type: "image_carousel",
                     columns: [
@@ -397,7 +397,7 @@ const alcohol = () => {
           type: "image_carousel",
           columns: [
             {
-              imageUrl: "https://firebasestorage.googleapis.com/v0/b/assistant-drinker.appspot.com/o/Motivation%2F1.png?alt=media&token=75d2b96e-5c0e-4811-9388-e33bfc711340",
+              imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B7%E0%B9%88%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A3%3F%2F%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B7%E0%B9%88%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%A1%E0%B8%B5%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.png?alt=media&token=5a7bd0f4-2d73-4b3d-812b-b402fe955ded",
               action: {
                 type: "message",
                 label: "ไม่มีปัญหา",
@@ -405,7 +405,7 @@ const alcohol = () => {
               }
             },
             {
-              imageUrl: "https://firebasestorage.googleapis.com/v0/b/assistant-drinker.appspot.com/o/Motivation%2F2.png?alt=media&token=fe2d9ab3-80f1-4590-b1b2-24cf072b3f3f",
+              imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B7%E0%B9%88%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A3%3F%2F%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B7%E0%B9%88%E0%B8%A1%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%A5%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%873.png?alt=media&token=8e650b86-4e83-437f-8372-f191ba2cb6bb",
               action: {
                 type: "message",
                 label: "คิดดื่มน้อยลง",
@@ -413,7 +413,7 @@ const alcohol = () => {
               }
             },
             {
-                imageUrl: "https://firebasestorage.googleapis.com/v0/b/assistant-drinker.appspot.com/o/Motivation%2F3.png?alt=media&token=0981c687-7ccd-4067-87ff-37cbe391506d",
+                imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B7%E0%B9%88%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A3%3F%2F%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B9%83%E0%B8%88%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B7%E0%B9%88%E0%B8%A1%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%A5%E0%B8%87.png?alt=media&token=804ae325-2e5e-418c-966c-9e73d9f1fbbe",
                 action: {
                     type: "message",
                     label: "อยากดื่มน้อยลง",
@@ -421,7 +421,7 @@ const alcohol = () => {
                   }
               },
               {
-                imageUrl: "https://firebasestorage.googleapis.com/v0/b/assistant-drinker.appspot.com/o/Motivation%2F4.png?alt=media&token=000526d6-f44d-40b9-be83-7d587f4341f8",
+                imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B7%E0%B9%88%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A3%3F%2F%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%88%E0%B8%B0%E0%B8%94%E0%B8%B7%E0%B9%88%E0%B8%A1%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%A5%E0%B8%87.png?alt=media&token=8fc966ce-d0c3-4341-a858-deb8d99264b2",
                 action: {
                     type: "message",
                     label: "พร้อมดื่มน้อยลง",
@@ -429,7 +429,7 @@ const alcohol = () => {
                   }
               },
               {
-                imageUrl: "https://firebasestorage.googleapis.com/v0/b/assistant-drinker.appspot.com/o/Motivation%2F5.png?alt=media&token=36d41607-51ce-4a66-8d9b-d5abdcf809d1",
+                imageUrl: "https://firebasestorage.googleapis.com/v0/b/nong-tung-jai-68673.appspot.com/o/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B7%E0%B9%88%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A3%3F%2F%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B7%E0%B9%88%E0%B8%A1%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7.png?alt=media&token=a7bc825d-8e6b-4cf9-9500-0a3868593ee9",
                 action: {
                     type: "message",
                     label: "ฉันดื่มน้อยลง",
